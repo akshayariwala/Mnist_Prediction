@@ -29,5 +29,3 @@ How It Works
 6. The predicted result is displayed in the Streamlit interface.
 
 Future Improvements - Add digit drawing canvas - Show prediction probability graph - Improve UI design - Deploy on Streamlit Cloud
-
-Author Akshay Ariwala Machine Learning | Python | AI Projects
